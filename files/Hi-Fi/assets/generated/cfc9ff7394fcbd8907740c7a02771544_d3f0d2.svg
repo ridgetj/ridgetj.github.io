@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Partysticks</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="stroked" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Holidays" sketch:type="MSLayerGroup" transform="translate(-733.000000, -1078.000000)" stroke="#d3f0d2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="Partysticks" transform="translate(735.000000, 1080.000000)" sketch:type="MSShapeGroup">
+                <polygon id="Star-52" points="10.2756493 29.7304152 6.85544784 33.3969262 6.59220936 28.3897528 1.61539524 29 4.63229192 24.9950762 0.427571746 22.2635182 5.3129641 21.1347924 3.84777318 16.3395556 8.31573183 18.6151711 10.2756493 14 12.2355667 18.6151711 16.7035254 16.3395556 15.2383344 21.1347924 20.1237268 22.2635182 15.9190066 24.9950762 18.9359033 29 13.9590892 28.3897528 13.6958507 33.3969262 "></polygon>
+                <polygon id="Star-52" transform="translate(34.795587, 8.795587) rotate(-13.000000) translate(-34.795587, -8.795587) " points="34.7955873 12.5203572 31.975343 14.6518849 31.8834449 11.1179433 28.4585558 10.2419733 31.1642051 7.966748 29.7136826 4.74290356 33.1794702 5.43968555 34.7955873 2.29558727 36.4117044 5.43968555 39.8774919 4.74290356 38.4269694 7.966748 41.1326187 10.2419733 37.7077297 11.1179433 37.6158316 14.6518849 "></polygon>
+                <rect id="Rectangle-1945" transform="translate(29.000000, 44.500000) rotate(-45.000000) translate(-29.000000, -44.500000) " x="27" y="29" width="4" height="31"></rect>
+                <rect id="Rectangle-1946" transform="translate(40.564519, 33.123106) rotate(-13.000000) translate(-40.564519, -33.123106) " x="38.5645185" y="17.623106" width="4" height="31"></rect>
+                <circle id="Oval-1741" cx="50" cy="11" r="1"></circle>
+                <circle id="Oval-1742" cx="10" cy="2" r="1"></circle>
+                <circle id="Oval-1743" cx="46" cy="17" r="1"></circle>
+                <circle id="Oval-1744" cx="10" cy="41" r="1"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
